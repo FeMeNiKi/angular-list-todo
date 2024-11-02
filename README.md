@@ -1,27 +1,110 @@
 # ListaTarefas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+**ListaTarefas** é uma aplicação simples de lista de tarefas (To-Do List) desenvolvida utilizando [Angular](https://angular.io). O objetivo deste projeto é permitir que os usuários gerenciem suas tarefas diárias de forma fácil e intuitiva, facilitando a organização pessoal e a produtividade.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Adicionar Tarefas**: Permite que os usuários adicionem novas tarefas à lista.
+- **Remover Tarefas**: Usuários podem remover tarefas que já foram concluídas ou que não são mais necessárias.
+- **Visualização em Tempo Real**: A lista é atualizada automaticamente em tempo real conforme as tarefas são adicionadas ou removidas.
+- **Interface Intuitiva**: Desenvolvido com uma interface limpa e responsiva, otimizada para diferentes dispositivos.
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **[Angular](https://angular.io)**: Um poderoso framework para construção de aplicações de uma única página, que facilita o desenvolvimento de interfaces dinâmicas.
+- **[Angular CLI](https://github.com/angular/angular-cli)**: Ferramenta de linha de comando para inicialização e manutenção de projetos Angular.
+- **HTML5 & CSS3**: Para a estruturação e estilização da interface do usuário.
+- **TypeScript**: Linguagem utilizada no desenvolvimento para garantir a tipagem estática e melhorar a manutenção do código.
 
-## Build
+## Instalação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para rodar este projeto localmente, siga as etapas abaixo:
 
-## Running unit tests
+1. **Clone o repositório:**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   ```bash
+   git clone https://github.com/RDEsley/angular-list-todo.git
+   ```
 
-## Running end-to-end tests
+2. **Navegue até o diretório do projeto:**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   cd angular-list-todo
+   ```
 
-## Further help
+3. **Instale as dependências:**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+   Execute o seguinte comando para instalar as dependências do projeto:
+
+   ```bash
+   npm install
+   ```
+
+## Uso
+
+Para iniciar o servidor de desenvolvimento, execute:
+
+```bash
+ng serve
+```
+
+Navegue até `http://localhost:4200/`. A aplicação irá recarregar automaticamente se você alterar qualquer um dos arquivos de origem.
+
+## Testes
+
+### Executando Testes Unitários
+
+Para executar os testes unitários via [Karma](https://karma-runner.github.io), utilize:
+
+```bash
+ng test
+```
+
+Os testes são configurados para garantir que a funcionalidade básica da aplicação esteja funcionando conforme esperado.
+
+### Executando Testes de End-to-End
+
+Para executar os testes de end-to-end, utilize:
+
+```bash
+ng e2e
+```
+
+Essa funcionalidade permite verificar se todos os fluxos de usuário funcionam como deveriam em um ambiente de produção simulado.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch:
+
+   ```bash
+   git checkout -b feature/nome-da-sua-feature
+   ```
+
+3. Realize suas alterações e faça commit delas:
+
+   ```bash
+   git commit -m 'Adicionando uma nova feature'
+   ```
+
+4. Faça push para a branch:
+
+   ```bash
+   git push origin feature/nome-da-sua-feature
+   ```
+
+5. Abra um Pull Request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Contato
+
+Para mais informações, dúvidas ou sugestões, entre em contato com [Richard Esley](https://github.com/RDEsley).
+
+## Demonstração
+
+Uma demonstração funcional da aplicação pode ser visualizada em [link da demonstração](angular-list-todo.vercel.app).
