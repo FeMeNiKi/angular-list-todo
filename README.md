@@ -107,4 +107,4 @@ Para mais informações, dúvidas ou sugestões, entre em contato com [Richard E
 
 ## Demonstração
 
-Uma demonstração funcional da aplicação pode ser visualizada em ([angular-list-todo.vercel.app](https://angular-list-todo.vercel.app)).
+Uma demonstração funcional da aplicação pode ser visualizada em [angular-list-todo.vercel.app](https://angular-list-todo.vercel.app).
