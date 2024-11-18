@@ -103,11 +103,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Participantes
 
-[Richard Esley](https://github.com/RDEsley)
-
-[Fernanda Kikuchi](https://github.com/FeMeNiKi)
-
-[Matheus Brandão](https://media.tenor.com/lTyYgTAoN6cAAAAM/fantome-ghost.gif)
+[Richard Esley](https://github.com/RDEsley); [Fernanda Kikuchi](https://github.com/FeMeNiKi); [Matheus Brandão](https://media.tenor.com/lTyYgTAoN6cAAAAM/fantome-ghost.gif).
 
 ## Demonstração
 
