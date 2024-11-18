@@ -1,4 +1,4 @@
-# ListaTarefas
+# TODO LIST
 
 **ListaTarefas** é uma aplicação simples de lista de tarefas (To-Do List) desenvolvida utilizando [Angular](https://angular.io). O objetivo deste projeto é permitir que os usuários gerenciem suas tarefas diárias de forma fácil e intuitiva, facilitando a organização pessoal e a produtividade.
 
