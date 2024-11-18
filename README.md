@@ -103,7 +103,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Participantes
 
-[Richard Esley](https://github.com/RDEsley), [Fernanda Kikuchi](https://github.com/FeMeNiKi), [Matheus Brandão](https://media.tenor.com/lTyYgTAoN6cAAAAM/fantome-ghost.gif).
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" alt="Otter" width="25" height="25" /> [Richard Esley](https://github.com/RDEsley) <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25" /> [Fernanda Kikuchi](https://github.com/FeMeNiKi)<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="25" height="25" /> [Matheus Brandão](https://media.tenor.com/lTyYgTAoN6cAAAAM/fantome-ghost.gif)
 
 ## Demonstração
 
