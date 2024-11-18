@@ -101,9 +101,13 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## Contato
+## Participantes
 
-Para mais informações, dúvidas ou sugestões, entre em contato com [Richard Esley](https://github.com/RDEsley).
+[Richard Esley](https://github.com/RDEsley)
+
+[Fernanda Kikuchi](https://github.com/FeMeNiKi)
+
+[Matheus Brandão](https://media.tenor.com/lTyYgTAoN6cAAAAM/fantome-ghost.gif)
 
 ## Demonstração
 
